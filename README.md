@@ -30,6 +30,6 @@ Dropped all duplicates from fips column in
 
 •  Load: the final database, tables, and why this was chosen.
 
-Selected all data from hospital_visits and us_county, to get our table, which is joined on the fips column
+Selected all data from hospital_visits and us_county, to get the table, which is joined on the fips column
 In the schema file, there will be a join statement showing how the two tables were related
 
