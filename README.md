@@ -5,13 +5,13 @@ Project Technical Report 03/12/2021
 Hospital Visits Data (3/1/2020 - 3/21/2020) by County 
 ETL Project
 •  Extract: your original data sources and how the data was formatted
-Our ETL Project is compromised from 2 CSV Files found on Kaggle.com
+This ETL Project is compromised from 2 CSV Files found on Kaggle.com
 https://www.kaggle.com/jieyingwu/covid19-us-countylevel-summaries?select=hospital_visits.csv
 hospital_visits.csv - Hospital Visits by each day from 3/1/2020-3/21/2020 by County in the United States
             covid_us_county.csv- County Demographics
 
 •  Transform: what data cleaning or transformation was required.
-	We will be using Postgres for our database
+	I will be using Postgres for our database
 Extract above CSVs into data frames
 Transform hospital_visits data frame
 Create filtered data frame for the hospital_visits from specific columns
