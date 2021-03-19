@@ -14,7 +14,7 @@ hospital_visits.csv - Hospital Visits by each day from 3/1/2020-3/21/2020 by Cou
 
 •  Transform: what data cleaning or transformation was required.
 
-	I will be using Postgres for our database
+	I will be using Postgres for this database
 Extract above CSVs into data frames
 Transform hospital_visits data frame
 Create filtered data frame for the hospital_visits from specific columns
